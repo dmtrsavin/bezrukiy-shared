@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bezrukiy-shared-entity" />
+        <module name="bezrukiy-shared-exception" />
+        <module name="bezrukiy-shared-service" />
       </profile>
     </annotationProcessing>
   </component>
