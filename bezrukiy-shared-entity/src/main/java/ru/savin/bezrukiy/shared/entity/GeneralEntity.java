@@ -1,26 +1,23 @@
 package ru.savin.bezrukiy.shared.entity;
 
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 
-import javax.persistence.*;
-import java.time.OffsetDateTime;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.MappedSuperclass;
+
 
 /**
- * Общая сущность имеющая название записей, дату создания и дату удаления (закрытия).
+ * Общий идентификатор сущностей.
  */
 @Data
+@EqualsAndHashCode(callSuper = true)
 @MappedSuperclass
-public abstract class GeneralEntity {
+public abstract class GeneralEntity extends GeneralConceptEntity {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
-    @Column(name = "name", nullable = false, unique = true)
-    private String name;
-
-    @Column(name = "createDttm", nullable = false)
-    private OffsetDateTime createDttm;
-
-    @Column(name = "endDttm")
-    private OffsetDateTime endDttm;
 }

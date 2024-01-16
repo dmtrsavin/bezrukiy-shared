@@ -1,6 +1,6 @@
 
 9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 N
@@ -8,15 +8,15 @@ N
 J
 bezrukiy-shared-entity.iml,e\b\ebd67d6280a3ce5474dcc3608902da6508e139f5
 S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
--.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 w
 G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b\4\b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
 Å
 Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,1\0\10a03f31c4dce92cb371e761ce9429428bb6c176
 á
-Wbezrukiy-shared-entity/src/main/java/ru/savin/bezrukiy/shared/entity/GeneralEntity.java,7\8\78a3d30434c190de6cf24300b4bc4bb3f063c230
+Wbezrukiy-shared-entity/src/main/java/ru/savin/bezrukiy/shared/entity/GeneralEntity.java,7/8/78a3d30434c190de6cf24300b4bc4bb3f063c230
 á
 Wbezrukiy-shared-service/src/main/java/ru/savin/bezrukiy/shared/service/CrudService.java,4\4\4496829a503a38c81b5f777d0a41090460d40623
 O
@@ -49,3 +49,35 @@ G.idea/sonarlint/issuestore/2/f/2f06ef59d7875216d7efd0a5af54bb35f8487303,e\6\e6
 Q.idea/sonarlint/securityhotspotstore/c/b/cba143fec80649eed3f37482a5b2959a1eceda02,4\c\4c56b3d486fccd9d5cbbc4d7b64f19188acc3344
 a
 1bezrukiy-shared-entity/bezrukiy-shared-entity.iml,3\5\35643384acfa3135a182552714dfec1454fe2585
+í
+bbezrukiy-shared-entity/src/main/java/ru/savin/bezrukiy/shared/entity/GeneralFilestorageEntity.java,c/0/c0df63dd7e4f12f75f297cc2422f2d56cabac059
+í
+bbezrukiy-shared-entity/src/main/java/ru/savin/bezrukiy/shared/entity/GeneralFileStorageEntity.java,f/6/f6a1b7ee49ea93d3d4838cd3a93ffbdfc603b287
+â
+Ybezrukiy-shared-entity/src/main/java/ru/savin/bezrukiy/shared/entity/GeneralIdEntity.java,e/f/efc19b70c54c416e60aa37d6432f840a2bc03400
+é
+^bezrukiy-shared-entity/src/main/java/ru/savin/bezrukiy/shared/entity/GeneralConceptEntity.java,3/9/39fd03a52e770fec4141f900d049df8305ebce15
+ê
+`bezrukiy-shared-entity/src/main/java/ru/savin/bezrukiy/shared/entity/GeneralIdConceptEntity.java,f/3/f361be96e8ac1d778a03381325ad26707a421796
+ô
+ibezrukiy-shared-entity/src/main/java/ru/savin/bezrukiy/shared/entity/GeneralFileStorageConceptEntity.java,f/2/f269f5495904778b2a2bc6d7bf18177c65992b12
+Å
+Q.idea/sonarlint/securityhotspotstore/e/f/efc19b70c54c416e60aa37d6432f840a2bc03400,0/2/0272dd85d1fe428dd354f5312d1032adca2ad790
+w
+G.idea/sonarlint/issuestore/f/3/f361be96e8ac1d778a03381325ad26707a421796,8/f/8fa61618d22333becba2bfb511eaf3bd47d2803d
+Å
+Q.idea/sonarlint/securityhotspotstore/3/9/39fd03a52e770fec4141f900d049df8305ebce15,7/5/75d921ca123c01af7158e4651c2c5aa67cec21aa
+Å
+Q.idea/sonarlint/securityhotspotstore/f/6/f6a1b7ee49ea93d3d4838cd3a93ffbdfc603b287,7/2/729b39f0a5147ff4fe7cf719f8962af940977ae9
+Å
+Q.idea/sonarlint/securityhotspotstore/f/3/f361be96e8ac1d778a03381325ad26707a421796,8/2/82f522de457e1fd0dadffad224943506f88586a9
+Å
+Q.idea/sonarlint/securityhotspotstore/f/2/f269f5495904778b2a2bc6d7bf18177c65992b12,9/7/9762cb7df20735b827daca4883a55c28ab8cf534
+w
+G.idea/sonarlint/issuestore/3/9/39fd03a52e770fec4141f900d049df8305ebce15,8/1/819aa5da38a18de7483a9b37eaecea89b2b3592a
+Å
+Q.idea/sonarlint/securityhotspotstore/c/0/c0df63dd7e4f12f75f297cc2422f2d56cabac059,6/d/6d57cd716f1764b271ddcbe3cc7bc35c1d786673
+c
+3bezrukiy-shared-service/bezrukiy-shared-service.iml,7/7/779e8160172cb24c86051f45987ef065687e6a58
+g
+7bezrukiy-shared-exception/bezrukiy-shared-exception.iml,a/1/a10f07e1da82ef8070deb343b8be2ad06ba179e3
