@@ -18,6 +18,6 @@ public abstract class GeneralFileStorageEntity extends GeneralConceptEntity {
 
     @Id
     @Column(name = "file_id")
-    private UUID file_id = UUID.randomUUID();
+    private UUID fileId = UUID.randomUUID();
 }
 

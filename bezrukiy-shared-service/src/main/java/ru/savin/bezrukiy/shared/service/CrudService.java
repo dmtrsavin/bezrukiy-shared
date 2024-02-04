@@ -3,15 +3,15 @@ package ru.savin.bezrukiy.shared.service;
 /**
  * Базовый CRUD.
  *
- * @param <D> - ДТО.
- * @param <E> - Сущность.
+ * @param <D> ДТО.
+ * @param <U> ДТО обновления.
  */
-public interface CrudService<D, E> {
+public interface CrudService<D, U> {
 
     /**
      * Получение данных.
-     * @param name - Название/Наименование.
-     * @return D - ДТО.
+     * @param name Название/Наименование.
+     * @return D ДТО.
      */
     D get(String name);
 
@@ -19,24 +19,24 @@ public interface CrudService<D, E> {
     /**
      * Сохранение данных.
      *
-     * @param entity - Сущность.
-     * @return D - ДТО.
+     * @param dto ДТО.
+     * @return D ДТО.
      */
-    D save(E entity);
+    D save(D dto);
 
     /**
      * Обновление данных.
      *
-     * @param entity - Сущность.
-     * @return D - ДТО.
+     * @param update ДТО с новыми данными.
+     * @return D ДТО.
      */
-    D update(E entity);
+    D update(U update);
 
     /**
      * Удаление данных.
      *
-     * @param name - Название/Наименование.
-     * @return @{@link String} - Статус удаления.
+     * @param name Название/Наименование.
+     * @return @{@link String} Статус удаления.
      */
     String delete(String name);
 }
