@@ -12,6 +12,7 @@
         <module>bezrukiy-shared-entity</module>
         <module>bezrukiy-shared-service</module>
         <module>bezrukiy-shared-exception</module>
+        <module>bezrukiy-shared-dto</module>
     </modules>
 
     <properties>
