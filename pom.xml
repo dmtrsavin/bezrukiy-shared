@@ -13,6 +13,7 @@
         <module>bezrukiy-shared-service</module>
         <module>bezrukiy-shared-exception</module>
         <module>bezrukiy-shared-dto</module>
+        <module>bezrukiy-shared-feign</module>
     </modules>
 
     <properties>

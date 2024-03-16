@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/bezrukiy-shared-entity/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bezrukiy-shared-exception/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bezrukiy-shared-exception/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bezrukiy-shared-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bezrukiy-shared-feign/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bezrukiy-shared-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bezrukiy-shared-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
